@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Reservation System Test">82981f58834d12109586e590ceaad348</page>
+        <required_translations>[]</required_translations>
+        <route display_value="">56981f58334d1210e9d84768ee53d6a7</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-01 04:06:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>da981f58aa4d12109f837a80e7bcac86</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_update_name>sys_ux_page_property_da981f58aa4d12109f837a80e7bcac86</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-01 04:06:30</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_1385354_reserv_0.82981f58834d12109586e590ceaad348.route.chrome_header.56981f58334d1210e9d84768ee53d6a7</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reservation System">8c3545be833092109586e590ceaad34f</application>
+        <file_path/>
+        <instance_id>a3ff814cebb346d4e483f459bad0cd4b</instance_id>
+        <instance_name>dev282255</instance_name>
+        <name>sys_ux_page_property_da981f58aa4d12109f837a80e7bcac86</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="Reservation System Test">82981f58834d12109586e590ceaad348</page><required_translations>[]</required_translations><route display_value="">56981f58334d1210e9d84768ee53d6a7</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-10-01 04:06:30</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>da981f58aa4d12109f837a80e7bcac86</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package><sys_policy/><sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope><sys_update_name>sys_ux_page_property_da981f58aa4d12109f837a80e7bcac86</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-10-01 04:06:30</sys_updated_on><type>json</type><unique_name>x_1385354_reserv_0.82981f58834d12109586e590ceaad348.route.chrome_header.56981f58334d1210e9d84768ee53d6a7</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1747421447</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>4232b702833012109586e590ceaad374</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-09-24 06:12:03</sys_created_on>
+        <sys_id>c7b8731483c552109586e590ceaad3ed</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19222a887380000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>87b873143bc55210df486fe2be85aced</update_guid>
+        <update_guid_history>87b873143bc55210df486fe2be85aced:-1747421447</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-01 06:26:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>bde4fc4e30614a4d90c1fc3b78e9fd41</sys_id>
+        <sys_metadata>da981f58aa4d12109f837a80e7bcac86</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_scope_delete display_value="">5e8635b191ea4626b3ede0e6ff80bff1</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_da981f58aa4d12109f837a80e7bcac86</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_da981f58aa4d12109f837a80e7bcac86">c7b8731483c552109586e590ceaad3ed</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-01 06:26:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

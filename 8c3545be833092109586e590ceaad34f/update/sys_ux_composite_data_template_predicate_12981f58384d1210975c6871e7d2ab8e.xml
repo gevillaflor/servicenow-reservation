@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="kb_knowledge">active=true^EQ<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>short_description,author.avatar,author.name,description,sys_view_count,rating</field_list>
+        <name>Popular articles predicate</name>
+        <order/>
+        <predicate_bundle display_value="Popular articles bundle">1e981f58024d121068f5d42b86a2bd91</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-01 04:06:28</sys_created_on>
+        <sys_id>12981f58384d1210975c6871e7d2ab8e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Popular articles predicate</sys_name>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_12981f58384d1210975c6871e7d2ab8e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-01 04:06:28</sys_updated_on>
+        <table>kb_knowledge</table>
+        <ux_template display_value="Popular articles template">da981f58644d12108118c02a3efdcb8f</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

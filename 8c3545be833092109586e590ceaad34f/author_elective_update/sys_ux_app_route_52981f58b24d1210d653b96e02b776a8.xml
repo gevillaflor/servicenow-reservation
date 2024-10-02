@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Custom Portal App Config">86981f58834d12109586e590ceaad348</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Task rejected</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>task_rejected</route_type>
+        <screen_type display_value="Task rejected">5a981f58ae4d1210b13807a8d19bd6a9</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-01 04:06:30</sys_created_on>
+        <sys_id>52981f58b24d1210d653b96e02b776a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task rejected</sys_name>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_update_name>sys_ux_app_route_52981f58b24d1210d653b96e02b776a8</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-01 04:06:30</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reservation System">8c3545be833092109586e590ceaad34f</application>
+        <file_path/>
+        <instance_id>a3ff814cebb346d4e483f459bad0cd4b</instance_id>
+        <instance_name>dev282255</instance_name>
+        <name>sys_ux_app_route_52981f58b24d1210d653b96e02b776a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Custom Portal App Config">86981f58834d12109586e590ceaad348</app_config><description/><extension_point/><fields/><icon/><name>Task rejected</name><optional_parameters/><order>0</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><parent_macroponent_composition_element_id/><route_type>task_rejected</route_type><screen_type display_value="Task rejected">5a981f58ae4d1210b13807a8d19bd6a9</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2024-10-01 04:06:30</sys_created_on><sys_id>52981f58b24d1210d653b96e02b776a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Task rejected</sys_name><sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package><sys_policy/><sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope><sys_update_name>sys_ux_app_route_52981f58b24d1210d653b96e02b776a8</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2024-10-01 04:06:30</sys_updated_on></sys_ux_app_route></record_update>]]></payload>
+        <payload_hash>-1268000741</payload_hash>
+        <record_name>Task rejected</record_name>
+        <reverted_from/>
+        <source>4232b702833012109586e590ceaad374</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-09-24 06:12:03</sys_created_on>
+        <sys_id>88e8f31483c552109586e590ceaad3ad</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19222a887380000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Route</type>
+        <update_guid>48e8f31482c552101d8b947c74a5c9ad</update_guid>
+        <update_guid_history>48e8f31482c552101d8b947c74a5c9ad:-1268000741</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-01 06:27:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>4a585f30439b4210ba029c61e493b631</sys_id>
+        <sys_metadata>52981f58b24d1210d653b96e02b776a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task rejected</sys_name>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_scope_delete display_value="">5e8635b191ea4626b3ede0e6ff80bff1</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_52981f58b24d1210d653b96e02b776a8</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_52981f58b24d1210d653b96e02b776a8">88e8f31483c552109586e590ceaad3ad</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-01 06:27:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

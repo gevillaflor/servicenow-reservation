@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="87ee6e04834112109586e590ceaad361" label="Employee" max_length="40" name="x_1385354_reserv_0_employee" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Department" max_length="40" name="department" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Forename" max_length="40" name="forename" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Gender" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Male" sequence="0" value="M"/>
+                <element inactive_on_update="false" label="Female" sequence="1" value="F"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Surname" max_length="40" name="surname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Dept Manager" max_length="40" name="dept_manager" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Manager ID" max_length="40" name="manager_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Employee ID" max_length="10" name="employee_id" type="string"/>
+    </element>
+</database>

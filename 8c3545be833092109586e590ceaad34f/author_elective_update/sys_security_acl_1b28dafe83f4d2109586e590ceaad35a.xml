@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description/>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1385354_reserv_0_reservation</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:34:06</sys_created_on>
+        <sys_id>1b28dafe83f4d2109586e590ceaad35a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1385354_reserv_0_reservation</sys_name>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_update_name>sys_security_acl_1b28dafe83f4d2109586e590ceaad35a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:34:06</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reservation System">8c3545be833092109586e590ceaad34f</application>
+        <file_path/>
+        <instance_id>a3ff814cebb346d4e483f459bad0cd4b</instance_id>
+        <instance_name>dev282255</instance_name>
+        <name>sys_security_acl_1b28dafe83f4d2109586e590ceaad35a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>true</advanced><condition/><description/><local_or_existing>Local</local_or_existing><name>x_1385354_reserv_0_reservation</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-26 07:34:06</sys_created_on><sys_id>1b28dafe83f4d2109586e590ceaad35a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1385354_reserv_0_reservation</sys_name><sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package><sys_policy/><sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope><sys_update_name>sys_security_acl_1b28dafe83f4d2109586e590ceaad35a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-26 07:34:06</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-2072900918</payload_hash>
+        <record_name>x_1385354_reserv_0_reservation</record_name>
+        <reverted_from/>
+        <source>c43545be833092109586e590ceaad355</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:34:06</sys_created_on>
+        <sys_id>df28dafe83f4d2109586e590ceaad360</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1922d405ee30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:34:06</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>d328dafe9bf4d210d3c617a0846d6c60</update_guid>
+        <update_guid_history>d328dafe9bf4d210d3c617a0846d6c60:-2072900918</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:38:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>a43123ddf17b42549ac073697fadffc1</sys_id>
+        <sys_metadata>1b28dafe83f4d2109586e590ceaad35a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1385354_reserv_0_reservation</sys_name>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_parent display_value="">c52856fe83f4d2109586e590ceaad338</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_scope_delete display_value="">5e8635b191ea4626b3ede0e6ff80bff1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_1b28dafe83f4d2109586e590ceaad35a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_1b28dafe83f4d2109586e590ceaad35a">df28dafe83f4d2109586e590ceaad360</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:38:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

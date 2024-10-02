@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b5dc6e40834112109586e590ceaad3a3" label="Reservation" max_length="40" name="x_1385354_reserv_0_reservation" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Driver’s Contact" max_length="40" name="driver_s_contact" type="phone_number_e164"/>
+        <element label="Vehicle Number" max_length="32" name="vehicle_number" reference="x_1385354_reserv_0_vehicles" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="10" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Driver" max_length="40" name="driver" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Type of Reservation" max_length="40" name="type_of_reservation" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Restaurant" sequence="3" value="RESTO"/>
+                <element inactive_on_update="false" label="Meeting Room" sequence="0" value="MTGRM"/>
+                <element inactive_on_update="false" label="Vehicle" sequence="1" value="VEHICLE"/>
+                <element inactive_on_update="false" label="Accomodation" sequence="2" value="ACCOMM"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Transaction ID" max_length="10" name="transaction_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Meeting Number" max_length="32" name="meeting_number" reference="x_1385354_reserv_0_meeting_room" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Capacity" max_length="40" name="capacity" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Reservation Date" max_length="40" name="reservation_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Reservation Time" max_length="40" name="reservation_time" type="glide_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="255" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Car Model" max_length="20" name="car_model" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Plate No" max_length="10" name="plate_no" type="string"/>
+        <index name="index">
+            <element name="vehicle_number"/>
+        </index>
+    </element>
+</database>

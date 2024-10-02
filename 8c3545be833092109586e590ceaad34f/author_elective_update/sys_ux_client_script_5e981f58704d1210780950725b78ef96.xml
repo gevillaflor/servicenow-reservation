@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="DELETE">
+        <controller_preset/>
+        <includes/>
+        <macroponent display_value="Settings Page">96981f58c94d12103411c373a3789da9</macroponent>
+        <name>breadcrumbs_1_items</name>
+        <preset/>
+        <required_translations>[ {
+  "code" : null,
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "code" : null,
+  "message" : "Settings",
+  "comment" : ""
+} ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    return [{
+            "label": helpers.translateSync("Home"),
+            "icon": "home-outline",
+            "hideLabel": false
+        },
+        {
+            "label": helpers.translateSync("Settings")
+        }
+    ];
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-01 04:06:28</sys_created_on>
+        <sys_id>5e981f58704d1210780950725b78ef96</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>breadcrumbs_1_items</sys_name>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_update_name>sys_ux_client_script_5e981f58704d1210780950725b78ef96</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-01 04:06:28</sys_updated_on>
+        <target/>
+        <type>transform</type>
+    </sys_ux_client_script>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reservation System">8c3545be833092109586e590ceaad34f</application>
+        <file_path/>
+        <instance_id>a3ff814cebb346d4e483f459bad0cd4b</instance_id>
+        <instance_name>dev282255</instance_name>
+        <name>sys_ux_client_script_5e981f58704d1210780950725b78ef96</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_ux_client_script"&gt;&lt;sys_ux_client_script action="INSERT_OR_UPDATE"&gt;&lt;controller_preset/&gt;&lt;includes/&gt;&lt;macroponent display_value="Settings Page"&gt;96981f58c94d12103411c373a3789da9&lt;/macroponent&gt;&lt;name&gt;breadcrumbs_1_items&lt;/name&gt;&lt;preset/&gt;&lt;required_translations&gt;[ {
+  "code" : null,
+  "message" : "Home",
+  "comment" : ""
+}, {
+  "code" : null,
+  "message" : "Settings",
+  "comment" : ""
+} ]&lt;/required_translations&gt;&lt;script&gt;&lt;![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {TransformApiHelpers} params.helpers
+ */
+function evaluateProperty({
+    api,
+    helpers
+}) {
+    return [{
+            "label": helpers.translateSync("Home"),
+            "icon": "home-outline",
+            "hideLabel": false
+        },
+        {
+            "label": helpers.translateSync("Settings")
+        }
+    ];
+}]]&gt;&lt;/script&gt;&lt;script_api_version&gt;2.0.0&lt;/script_api_version&gt;&lt;sys_class_name&gt;sys_ux_client_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;system&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2024-10-01 04:06:28&lt;/sys_created_on&gt;&lt;sys_id&gt;5e981f58704d1210780950725b78ef96&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;breadcrumbs_1_items&lt;/sys_name&gt;&lt;sys_package display_value="Reservation System" source="x_1385354_reserv_0"&gt;8c3545be833092109586e590ceaad34f&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Reservation System"&gt;8c3545be833092109586e590ceaad34f&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_ux_client_script_5e981f58704d1210780950725b78ef96&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2024-10-01 04:06:28&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;type&gt;transform&lt;/type&gt;&lt;/sys_ux_client_script&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>191315866</payload_hash>
+        <record_name>breadcrumbs_1_items</record_name>
+        <reverted_from/>
+        <source>4232b702833012109586e590ceaad374</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2024-09-24 06:12:03</sys_created_on>
+        <sys_id>02d8771483c552109586e590ceaad30c</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>19222a887380000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Client Script</type>
+        <update_guid>ced8771453c55210a1aeae31e03d5c0b</update_guid>
+        <update_guid_history>ced8771453c55210a1aeae31e03d5c0b:191315866</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-10-01 06:27:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_client_script">sys_ux_client_script</sys_db_object>
+        <sys_id>1bc4c201f45e487f96d507bde5f4bd51</sys_id>
+        <sys_metadata>5e981f58704d1210780950725b78ef96</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>breadcrumbs_1_items</sys_name>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_scope_delete display_value="">5e8635b191ea4626b3ede0e6ff80bff1</sys_scope_delete>
+        <sys_update_name>sys_ux_client_script_5e981f58704d1210780950725b78ef96</sys_update_name>
+        <sys_update_version display_value="sys_ux_client_script_5e981f58704d1210780950725b78ef96">02d8771483c552109586e590ceaad30c</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-10-01 06:27:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

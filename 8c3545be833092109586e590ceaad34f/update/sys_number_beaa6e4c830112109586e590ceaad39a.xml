@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1385354_reserv_0_restaurant">x_1385354_reserv_0_restaurant</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>RES</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 06:07:17</sys_created_on>
+        <sys_id>beaa6e4c830112109586e590ceaad39a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>RES</sys_name>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_update_name>sys_number_beaa6e4c830112109586e590ceaad39a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 06:07:17</sys_updated_on>
+    </sys_number>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:38:01</sys_created_on>
+        <sys_id>b4191ab68338d2109586e590ceaad396</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1385354_reserv_0_restaurant.x_1385354_reserv_0.admin</sys_name>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_security_acl display_value="x_1385354_reserv_0_restaurant">3c191ab68338d2109586e590ceaad391</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b4191ab68338d2109586e590ceaad396</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:38:01</sys_updated_on>
+        <sys_user_role display_value="x_1385354_reserv_0.admin" name="x_1385354_reserv_0.admin">903545be833092109586e590ceaad382</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Reservation System">8c3545be833092109586e590ceaad34f</application>
+        <file_path/>
+        <instance_id>a3ff814cebb346d4e483f459bad0cd4b</instance_id>
+        <instance_name>dev282255</instance_name>
+        <name>sys_security_acl_role_b4191ab68338d2109586e590ceaad396</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-26 07:38:01</sys_created_on><sys_id>b4191ab68338d2109586e590ceaad396</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1385354_reserv_0_restaurant.x_1385354_reserv_0.admin</sys_name><sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package><sys_policy/><sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope><sys_security_acl display_value="x_1385354_reserv_0_restaurant">3c191ab68338d2109586e590ceaad391</sys_security_acl><sys_update_name>sys_security_acl_role_b4191ab68338d2109586e590ceaad396</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-26 07:38:01</sys_updated_on><sys_user_role display_value="x_1385354_reserv_0.admin" name="x_1385354_reserv_0.admin">903545be833092109586e590ceaad382</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-579840171</payload_hash>
+        <record_name>x_1385354_reserv_0_restaurant.x_1385354_reserv_0.admin</record_name>
+        <reverted_from/>
+        <source>c43545be833092109586e590ceaad355</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-26 07:38:01</sys_created_on>
+        <sys_id>38191ab68338d2109586e590ceaad399</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1922d43f6660000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-26 07:38:01</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>3c191ab6c038d21012e7be3feb1a3e98</update_guid>
+        <update_guid_history>3c191ab6c038d21012e7be3feb1a3e98:-579840171</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1385354_reserv_0_restaurant.x_1385354_reserv_0.admin">44296ac8830112109586e590ceaad333</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-30 06:00:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>2fff8addaa7942d18283d98415463709</sys_id>
+        <sys_metadata>b4191ab68338d2109586e590ceaad396</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1385354_reserv_0_restaurant.x_1385354_reserv_0.admin</sys_name>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_parent display_value="">3c191ab68338d2109586e590ceaad391</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_scope_delete display_value="">5e8635b191ea4626b3ede0e6ff80bff1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_b4191ab68338d2109586e590ceaad396</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_b4191ab68338d2109586e590ceaad396">38191ab68338d2109586e590ceaad399</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-30 06:00:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

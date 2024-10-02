@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+    "eebfe69877de9110960ced43ba5a99ec": {
+        "relatedItemData": null,
+        "relatedItemSysids": null
+    },
+    "6de5e4974343611017b739603ab8f2c1": {
+        "allNodes": null,
+        "relatedItemCategorySysId": null,
+        "relatedItemSysids": null
+    },
+    "029f04e053610110ac9bddeeff7b1294": {
+        "inputTable": "task",
+        "inputSysId": "56c940b6f8b6021008dd9cfea425acbd"
+    }
+}</macroponent_config>
+        <screen display_value="Landing Page Default">12981f58f04d1210859c97a98d318982</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-01 05:51:23</sys_created_on>
+        <sys_id>379037d0830552109586e590ceaad3e4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Reservation System" source="x_1385354_reserv_0">8c3545be833092109586e590ceaad34f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_379037d0830552109586e590ceaad3e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-01 06:58:18</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>
