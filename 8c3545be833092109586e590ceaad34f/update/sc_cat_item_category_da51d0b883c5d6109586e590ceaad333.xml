@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Welcome to Wintrobirds Test">1fe48e7a83b0d2109586e590ceaad359</sc_cat_item>
+        <sc_category display_value="Office">109cdff8c6112276003b17991a09ad65</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-02 02:52:51</sys_created_on>
+        <sys_id>da51d0b883c5d6109586e590ceaad333</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office.Welcome to Wintrobirds Test</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="Reservation System">8c3545be833092109586e590ceaad34f</sys_scope>
+        <sys_update_name>sc_cat_item_category_da51d0b883c5d6109586e590ceaad333</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-02 02:52:51</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>
